@@ -8,19 +8,23 @@ Sou um estudante da área de Desenvolvimento. Em busca do meu primeiro estágio.
 <code><a href="https://www.linkedin.com/in/chystian/"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a></code>
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
+
+Linguagens | Banco de Dados | Framework | Ferramentas
+:---: | :---: | :---: | :---:
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5ec42) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=26a5bf) | ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=bf230f)
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=for-the-badge&logo=SQLServer&logoColor=4ba12f) | ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
+ ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e) |  | |
+ ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed) 
+
+
+
+
+
+
 
 ---
 
 ## ⭐ GitHub Stats
-
 [![card](https://github-readme-stats.vercel.app/api?username=ChrysAlves&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+## Linguagens usadas
 [![ChrysAlves](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysAlves&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
