@@ -12,9 +12,9 @@ Sou um estudante da área de Desenvolvimento. Em busca do meu primeiro estágio.
 Linguagens | Banco de Dados | Framework | Ferramentas
 :---: | :---: | :---: | :---:
  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5ec42) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=26a5bf) | ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=bf230f)
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=for-the-badge&logo=SQLServer&logoColor=4ba12f) | ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
+ ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed)  | ![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=for-the-badge&logo=SQLServer&logoColor=4ba12f) | ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e) |  | |
- ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed) 
+
 
 
 
