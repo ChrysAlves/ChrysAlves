@@ -1,6 +1,7 @@
 ## 💜 Olá, meu nome é Chrystian Alves!
 
-Sou um estudante da área de Desenvolvimento. Em busca do meu primeiro estágio.
+Sou um estudante da área de Desenvolvimento. Em busca do meu primeiro estágio. 
+Buscando conhecimento, e disposto a aprender qualquer coisa.
 
 ## Contatos
 <code><a href="https://web.whatsapp.com/send?phone=5561992156563" ><img height="32" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a></code>
