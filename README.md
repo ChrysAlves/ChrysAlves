@@ -1,6 +1,7 @@
 ## 💜 Olá, meu nome é Chrystian Alves!
 
 Sou um estudante da área de Desenvolvimento. Em busca do meu primeiro estágio. 
+<br>
 Buscando conhecimento, e disposto a aprender qualquer coisa.
 
 ## Contatos
